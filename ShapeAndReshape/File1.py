@@ -17,7 +17,7 @@ array = np.array([[1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14]])
 print(array.shape)
 
 # get specfic element  [r,c]
-# say we want 13, its the second row and 5th column
+# say we want 13, it's the second row and 5th column
 # index starts 0
 
 print(array[1, 5])
